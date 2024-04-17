@@ -1,0 +1,51 @@
+/* Reset styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  /* Body */
+  body {
+    font-family: sans-serif;
+    line-height: 1.6;
+  }
+  /* Container */
+  .container {
+    width: 960px;
+    margin: 0 auto;
+  }
+  /* Header */
+  h1 {
+    font-size: 36px;
+    font-weight: bold;
+  }
+  /* About Me */
+  .about-me {
+    margin-bottom: 20px;
+  }
+  /* Education */
+  .education {
+    margin-bottom: 20px;
+  }
+  ul {
+    list-style: none;
+  }
+  li {
+    margin-bottom: 5px;
+  }
+  /* Skills */
+  .skills {
+    margin-bottom: 20px;
+  }
+  /* Experience */
+  .experience {
+    margin-bottom: 20px;
+  }
+  /* Projects */
+  .projects {
+    margin-bottom: 20px;
+  }
+  /* Contact */
+  .contact {
+    margin-bottom: 20px;
+  }
